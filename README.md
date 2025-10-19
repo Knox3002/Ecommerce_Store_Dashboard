@@ -77,9 +77,3 @@ To provide a centralized, interactive view of e-commerce performance that enable
 * 💳 **Customer Preferences:** Understand payment method trends for improving checkout experience.
 * 📈 **Profitability Tracking:** Monitor monthly profits to adjust strategies dynamically.
 
----
-
-## 6. Screenshots / Demos
-
-**Dashboard Preview:**
-
